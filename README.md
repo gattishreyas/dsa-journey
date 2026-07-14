@@ -13,7 +13,7 @@ This repository contains my Data Structures and Algorithms practice.
 
 ## Language
 
-Python
+Java
 
 ## Goal
 
